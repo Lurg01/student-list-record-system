@@ -1,2 +1,2 @@
 # student-list-record-system
-Web Application Using Python
+A Simple Web Application Using Python
